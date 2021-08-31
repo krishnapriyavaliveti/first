@@ -3,7 +3,8 @@ we are learning new git
 
 
 
-
+we are adding more data to my existing file.
+this second modification to file.
 
 
 
@@ -17,3 +18,4 @@ we are learning new git
 
 
 hai
+thank you
